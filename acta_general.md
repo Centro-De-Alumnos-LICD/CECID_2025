@@ -1,24 +1,26 @@
-######          SESIÓN 2            ######
+# ACTA CONSEJO ESTUDIANTIL
+# Sesión Ordinaria 14 de mayo de 2025
 
+**CENTRO DE ESTUDIANTES CIENCIA DE DATOS**
 
+Siendo las 13:52 horas del día 14 de mayo de 2025, en la Sala 3 del piso 2 del Edificio San Agustín, se inicia la sesión ordinaria.
 
-
-
-ACTA CONSEJO ESTUDIANTIL
-Sesión Ordinaria 14 de mayo de 2025
-
-CENTRO DE ESTUDIANTES CIENCIA DE DATOS
-
-Siendo las 13:52 horas del día 14 de mayo de 2025, en la Sala 3 del piso 2 del Edificio San Agustín, se inicia la sesión ordinaria, contó con la asistencia de su Presidenta Amelie Ramírez, Vicepresidentes Diego Parra y Kamila Salas, Secretarios Daniel Salinas y Catalina Díaz, Consejeros Académicos Cristóbal Soto y Andrea Riquelme.
-Encabezada por la Presidenta Amelie Ramírez.
+## ASISTENTES 
+- Amelie Ramírez, Presidencia.
+- Diego Parra, Vicepresidencia Interna.
+- Kamila Salas, Vicepresidencia Externa.
+- Daniel Salinas, Secretaría.
+- Catalina Díaz, Subsecretaría.
+- Cristóbal Soto, Consejero Académico.
+- Andrea Riquelme, Subconsejera Académica.
 
 TABLA
 
-1.	Retroalimentación primera actividad CECID
-2.	Repartición deberes del centro estudiantil
-3.	Fechas oficiales de las elecciones
-4.	Actividades Mayo
-5.	Posibles Alianzas
+1\. **Retroalimentación primera actividad CECID**
+2\.	**Repartición deberes del centro estudiantil**
+3\.	**Fechas oficiales de las elecciones**
+4\.	**Actividades Mayo**
+5\.	**Posibles Alianzas**
 
 1.	Retroalimentación primera actividad CECID
 Iniciada la sesión se repasa el feedback de la actividad realizada el 7 de mayo, buena asistencia de la carrera y bastante positiva, se mencionan varias sugerencias como mejorar el audio y realizar nuevas actividades ya planificadas.
