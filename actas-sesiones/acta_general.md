@@ -1,6 +1,9 @@
 ######          SESIÓN 2            ######
 
 
+
+
+
 ACTA CONSEJO ESTUDIANTIL
 Sesión Ordinaria 14 de mayo de 2025
 
@@ -76,7 +79,13 @@ Pasando a un segundo punto se destaca la importancia de dejar asignados responsa
 Quedando ningún otro tema por tratar se da por terminada la sesión a las 14:51 horas.
 
 
+
+
+
 ######          SESIÓN 1            ######
+
+
+
 
 
 ACTA CONSEJO ESTUDIANTIL
