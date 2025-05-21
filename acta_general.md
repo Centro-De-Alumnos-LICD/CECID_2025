@@ -16,11 +16,11 @@ Siendo las 13:52 horas del día 14 de mayo de 2025, en la Sala 3 del piso 2 del 
 
 TABLA
 
-1\. **Retroalimentación primera actividad CECID**
-2\.	**Repartición deberes del centro estudiantil**
-3\.	**Fechas oficiales de las elecciones**
-4\.	**Actividades Mayo**
-5\.	**Posibles Alianzas**
+1. **Retroalimentación primera actividad CECID**
+2.	**Repartición deberes del centro estudiantil**
+3.	**Fechas oficiales de las elecciones**
+4.	**Actividades Mayo**
+5.	**Posibles Alianzas**
 
 1.	Retroalimentación primera actividad CECID
 Iniciada la sesión se repasa el feedback de la actividad realizada el 7 de mayo, buena asistencia de la carrera y bastante positiva, se mencionan varias sugerencias como mejorar el audio y realizar nuevas actividades ya planificadas.
