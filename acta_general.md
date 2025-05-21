@@ -24,10 +24,10 @@ TABLA
 
 SESIÓN
 
-1.	Retroalimentación primera actividad CECID
+### 1. Retroalimentación primera actividad CECID
 Iniciada la sesión se repasa el feedback de la actividad realizada el 7 de mayo, buena asistencia de la carrera y bastante positiva, se mencionan varias sugerencias como mejorar el audio y realizar nuevas actividades ya planificadas.
 
-2.	Repartición deberes del Centro Estudiantil
+### 2.	Repartición deberes del Centro Estudiantil
 Pasando a un segundo punto se destaca la importancia de dejar asignados responsabilidades para las siguientes labores:
 
     •	Reuniones FEUC
@@ -55,7 +55,7 @@ Pasando a un segundo punto se destaca la importancia de dejar asignados responsa
     •	Vocero de actividades
     Se decide que sea cargo rotativo por cada actividad.
 
-3.	Fechas oficiales de las elecciones.
+### 3.	Fechas oficiales de las elecciones.
     •	Votación.
     Se discute fechas viables para la realización de elecciones considerando que ya se tienen los postulantes e información necesaria, estableciéndose el jueves 15 de mayo.
 
@@ -65,7 +65,7 @@ Pasando a un segundo punto se destaca la importancia de dejar asignados responsa
     •	Toma de cargos y bienvenida.
     Manteniéndose dentro los tiempos se espera realizar la toma de cargos el lunes 19 de mayo y un posterior almuerzo de bienvenida el martes 20 de mayo. Para esto último lo ideal sería consultar a Zunilda para una sala y contacto para la comida.
 
-4.	Calendario de actividades Mayo.
+### 4.	Calendario de actividades Mayo.
     •	Tutorías.
     Se atienden a las solicitudes que ha realizado el IMC por medio de Consejería Académica para iniciar con las ayudantías, del cual discutimos la disponibilidad de horarios y como compatibilizarlos con los novatos. Como punto adicional el IMC se proporciona un incentivo de $15.000 por cada sesión. 
     Se destaca que para IIC1103 se tiene calendarizada la I2 el día 26 de mayo, por lo que habría que agilizar para poder apoyar ya por esas fechas.
