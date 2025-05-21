@@ -111,18 +111,16 @@ TABLA
 
 SESIÓN
 
-1.	Votación Delegados Generacionales.
+### 1.	Votación Delegados Generacionales.
 Iniciada la sesión se aborda de la importancia de establecer a la brevedad un llamado a las elecciones para recibir candidatos, dar espacio a campañas por medio de redes sociales, y poder contar con los delegados en la próxima convocatoria, en plenaria se indica la semana posterior al receso como fecha límite para tener todo organizado y empezar el proceso.  
 
-2.	Formación TRICEL.
+### 2.	Formación TRICEL.
 Como segundo punto a tratar se realiza una elección de el miembro de la directiva para el TRICEL, la cual, por no contar a la fecha con los representantes generacional, se permite la integración de un segundo miembro de la directiva, resultando elegidos por unanimidad Diego Parra y Diego Olivares.
 
-3.	Gala.
+### 3.	Gala.
 Llegado a este punto, Diego Parra pasa a presidir, se discute principalmente tema de gastos que conlleva y las opciones reales de participar en la gala, haciendo un sondeo general de la carrera se sabe de su reducida participación en eventos fuera y dentro de la carrera, principal inconveniente debido a lo que se exige para participar. De todas formas, se habla de los costos de las entradas el cual son altos y la sensación es que no habría reducción, sin embargo, se espera que haya una nueva reunión con los centros asociados y estudiar las propuestas, por el momento se plantea realizar una encuesta a modo de ver si se alcanza el mínimo requerido.
 
-
-
-4.	Evaluación y calendarización de proyectos.
+### 4.	Evaluación y calendarización de proyectos.
 Se discute en plenaria los siguientes proyectos:
 
     •	Formación de un cuerpo de ayudantes enfocado en estudiantes de Generación 2025 en un principio para evaluar su eficacia y rentabilidad, se tiene en consideración otorgar incentivos y/o reclutar de forma voluntaria, esto pasando por varios filtros, pero sin excesivos impedimentos para contar con un mínimo. 
@@ -136,7 +134,7 @@ Finalmente se establece la siguiente hoja de ruta general para las próximas dos
     •	Hacer un llamado para conocer candidatos de ayudantes.
     •	Post en redes sociales durante semana de receso.
 
-5.	Reuniones y olimpiadas interfacultad.
+### 5.	Reuniones y olimpiadas interfacultad.
 Próximo a concluir la sesión, se estudian posibles fechas para una sesión ordinaria ya con la participación de delegados generacionales, siendo mediados del próximo mes la fecha probable. A continuación, se designan representantes del consejo con disponibilidad de acudir a la reunión calendarizada para la segunda semana de mayo con motivo de las olimpiadas interfacultades, importantes para nuestra participación, ofreciéndose Andrea Riquelme y Daniel Salinas.
 
 Adicional a los temas tratados, Catalina Diaz, Amelie Ramírez y Andrea Riquelme asumen voluntariamente como encargados de redes sociales.
