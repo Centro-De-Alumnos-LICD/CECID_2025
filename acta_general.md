@@ -109,6 +109,8 @@ TABLA
 4.	**Evaluación y calendarización de proyectos**
 5.	**Reuniones y olimpiadas interfacultad**
 
+SESIÓN
+
 1.	Votación Delegados Generacionales.
 Iniciada la sesión se aborda de la importancia de establecer a la brevedad un llamado a las elecciones para recibir candidatos, dar espacio a campañas por medio de redes sociales, y poder contar con los delegados en la próxima convocatoria, en plenaria se indica la semana posterior al receso como fecha límite para tener todo organizado y empezar el proceso.  
 
