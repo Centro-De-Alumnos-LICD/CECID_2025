@@ -83,30 +83,31 @@ Pasando a un segundo punto se destaca la importancia de dejar asignados responsa
 Quedando ningún otro tema por tratar se da por terminada la sesión a las 14:51 horas.
 
 
+# ACTA CONSEJO ESTUDIANTIL
+# Sesión Extraordinaria 23 de abril de 2025
 
+**CENTRO DE ESTUDIANTES CIENCIA DE DATOS**
 
+Siendo las 13:50 horas del día 23 de abril de 2025, en la Sala Multiusos 2 del Edificio Felipe Villanueva, en la Facultad de Matemáticas, se inicia la sesión extraordinaria.
 
-######          SESIÓN 1            ######
-
-
-
-
-
-ACTA CONSEJO ESTUDIANTIL
-Sesión Extraordinaria 23 de abril de 2025
-
-CENTRO DE ESTUDIANTES CIENCIA DE DATOS
-
-Siendo las 13:50 horas del día 23 de abril de 2025, en la Sala Multiusos 2 del Edificio Felipe Villanueva en la Facultad de Matemáticas, se inicia la sesión extraordinaria, contó con la asistencia de su Presidenta Amelie Ramírez, Vicepresidentes Diego Parra y Kamila Salas, Tesorero Diego Olivares, Secretarios Daniel Salinas y Catalina Díaz, Consejeros Académicos Cristóbal Soto y Andrea Riquelme, y Vocera de Género Giuliana Tirachini.
-Encabezada por la Presidenta Amelie Ramírez.
+## ASISTENTES 
+- Amelie Ramírez, Presidencia.
+- Diego Parra, Vicepresidencia Interna.
+- Kamila Salas, Vicepresidencia Externa.
+- Daniel Salinas, Secretaría.
+- Catalina Díaz, Subsecretaría.
+- Diego Olivares, Hacienda.
+- Guiliana Tirachini, Vocera de Género.
+- Cristóbal Soto, Consejero Académico.
+- Andrea Riquelme, Subconsejera Académica.
 
 TABLA
 
-1.	Votación Delegados Generacionales
-2.	Formación TRICEL
-3.	Gala
-4.	 Evaluación y calendarización de proyectos
-5.	Reuniones y olimpiadas interfacultad
+1.	**Votación Delegados Generacionales**
+2.	**Formación TRICEL**
+3.	**Gala**
+4.	**Evaluación y calendarización de proyectos**
+5.	**Reuniones y olimpiadas interfacultad**
 
 1.	Votación Delegados Generacionales.
 Iniciada la sesión se aborda de la importancia de establecer a la brevedad un llamado a las elecciones para recibir candidatos, dar espacio a campañas por medio de redes sociales, y poder contar con los delegados en la próxima convocatoria, en plenaria se indica la semana posterior al receso como fecha límite para tener todo organizado y empezar el proceso.  
@@ -139,4 +140,3 @@ Próximo a concluir la sesión, se estudian posibles fechas para una sesión ord
 Adicional a los temas tratados, Catalina Diaz, Amelie Ramírez y Andrea Riquelme asumen voluntariamente como encargados de redes sociales.
 
 Sin nada más por discutir, termina la sesión alrededor de las 14:40 horas.
-
