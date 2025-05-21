@@ -22,6 +22,7 @@ TABLA
 4. **Actividades Mayo**
 5. **Posibles Alianzas**
 
+SESIÓN
 
 1.	Retroalimentación primera actividad CECID
 Iniciada la sesión se repasa el feedback de la actividad realizada el 7 de mayo, buena asistencia de la carrera y bastante positiva, se mencionan varias sugerencias como mejorar el audio y realizar nuevas actividades ya planificadas.
