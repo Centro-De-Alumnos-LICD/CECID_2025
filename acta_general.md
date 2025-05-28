@@ -1,4 +1,55 @@
 # ACTA CONSEJO ESTUDIANTIL
+# Sesión Extraordinaria 17 de mayo de 2025
+
+**CENTRO DE ESTUDIANTES CIENCIA DE DATOS**
+
+Siendo las 22:06 horas del día 17 de mayo de 2025, en formato remoto mediante la plataforma Discord, se inicia la sesión extraordinaria.
+
+## ASISTENTES
+- Amelie Ramírez, Presidencia.
+- Diego Parra, Vicepresidencia Interna.
+- Kamila Salas, Vicepresidencia Externa.
+- Daniel Salinas, Secretaría.
+- Catalina Díaz, Subsecretaría.
+- Diego Olivares, Hacienda.
+- Guiliana Tirachini, Vocera de Género.
+- Cristóbal Soto, Consejero Académico.
+- Andrea Riquelme, Subconsejera Académica.
+
+### TABLA
+
+1.	**Bienvenida Representantes Generacionales**
+2.	**Juegos Inter Facultades**
+3.	**Ayudantías**
+4.	**Redes sociales**
+
+### SESIÓN
+
+#### 1.	Bienvenida Representantes Generacionales
+Partiendo, se informa a la directiva que se tiene sala para la reunión del martes con los delegados, pero no hay claridad con la comida para la junta y se hablan de varias opciones, decantándose al final por completos, se tiene en consideración la sandwichera “Mariano’s”, del cual habría que conseguir más información de los precios con Zunilda al finalizar la sesión.
+Adicional se comprarán bebidas para acompañar la bienvenida.
+
+#### 2.	Juegos Inter Facultades
+Habla Andrea Riquelme donde se explica un poco la dinámica que se espera llevar a cabo y conseguir los equipos. Se formarán grupos con las disciplinas y hacer un llamado mediante la comunidad de la carrera.
+Igualmente se plantea que de no llegar al mínimo para los equipos se buscará hacer cercanía con la Facultad de Matemática y estudiar la opción de fusión con otra carrera y participar en los Juegos.
+
+#### 3.	Ayudantías
+Se comparte con la directiva los contenidos a considerar para la I2 que tendrán próximamente los novatos, se buscaría conseguir ejercicios para practicar y desarrollar adecuadamente la ayudantía. Se confirma la participación de Daniel Salinas y Cristóbal Soto como ayudantes, Kamila Salas como co-ayudante y se designa a Diego Parra como coordinador de la actividad.
+Se decide que la ayudantía funcione en un formato similar a las SAP y se desarrollará el día jueves 22 de mayo en el módulo 3 en una sala por determinar.
+Se realizará un formulario para el final de la ayudantía y recoger feedback y sugerencias.
+*Extraoficialmente se suma una estudiante de LICC como apoyo.
+
+#### 4.	Redes Sociales
+    •   Publicación de información sobre las redes de apoyo que ofrece la universidad.
+    •   Publicación de Reunión de Mujeres a principios de segundo semestre.
+
+
+Se programa una sesión ordinaria para el día miércoles 28 de mayo en horario de almuerzo, sala por determinar.
+
+Finalmente termina la sesión a las 22:52 horas.
+
+
+# ACTA CONSEJO ESTUDIANTIL
 # Sesión Ordinaria 14 de mayo de 2025
 
 **CENTRO DE ESTUDIANTES CIENCIA DE DATOS**
