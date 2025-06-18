@@ -1,4 +1,77 @@
 # ACTA CONSEJO ESTUDIANTIL
+# Sesión Ordinaria 28 de mayo de 2025
+
+**CENTRO DE ESTUDIANTES CIENCIA DE DATOS**
+
+Siendo las 13:55 horas del día 28 de mayo de 2025, en la Sala 3 del piso 2 del Edificio San Agustín, se inicia la sesión ordinaria.
+
+## ASISTENTES
+•	Amelie Ramírez, Presidencia.
+•	Diego Parra, Vicepresidencia Interna.
+•	Kamila Salas, Vicepresidencia Externa.
+•	Daniel Salinas, Secretaría.
+•	Catalina Díaz, Subsecretaría.
+•	Diego Olivares, Hacienda.
+•	Guiliana Tirachini, Vocera de Género.
+•	Cristóbal Soto, Consejero Académico.
+•	Andrea Riquelme, Subconsejera Académica.
+•	Víctor Marques, Gen23
+•	Antonella Ainzúa, Gen24
+•	Luis Romero, Gen24
+•	Ignacio Osorio, Gen25
+•	Sofía Solorza, Gen25
+
+### TABLA
+1.	**Bienvenida formal a los delegados.**
+2.	**Retroalimentación Consejo FEUC.**
+3.	**Retroalimentación Ayudantía CECD**
+4.	**Repaso de deberes asignados a los miembros de la directiva.**
+5.	**División de los proyectos existentes.**
+6.	**Retroalimentación formulario proyecto.**
+
+### SESIÓN
+
+#### 1.	Bienvenida formal a los delegados.
+Para empezar, se repasan los estatutos a los representantes generacionales hablando relación a sus deberes y el rol que cumplen en el Centro.
+
+#### 2.	Retroalimentación Consejo FEUC.
+Se repasa lo que fue el último consejo FEUC informando los puntos importantes en temas de seguridad, las cuentas públicas de CONFECh, FEUC e informando sobre la propuesta de la Escuelita Inclusiva y las necesidades que tiene en financiación.
+
+#### 3.	Retroalimentación Ayudantía CECD.
+Se escucha y estudia el feedback obtenido de la ayudantía de programación realizada la semana anterior, siendo en general bastante positivas, y alguna pequeña observación del nombre que se promocionó la ayudantía y propuestas de cómo hacer una próxima. 
+En un siguiente punto organizar las próximas ayudantías, posibles fechas y que ramos abarcar.
+
+#### 4.	Repaso de deberes asignados a los miembros de la directiva.
+Se hace un repaso a modo de informar a los representantes generacionales de los deberes asignados a cada uno de los miembros de la directiva y que puedan saber a quién acudir según las necesidades que tengan.
+
+#### 5.	División de los proyectos existentes.
+Se hace una revisión a los proyectos en lo que trabaja el centro, pero importante asignar un encargado que mantenga en contacto como avanza el proyecto a la directiva.
+Organizándose de la siguiente manera:
+    • Misiones 2025: Diego Parra y Amelie Ramírez.
+    • Ayudantías: Kamila Salas, Katalina Salas y Diego Olivares.
+    • Gala: Guiliana Tirachini.
+    • Olimpiadas: Daniel Salinas y Andrea Riquelme.
+    • Inclusión: Cristóbal Soto y Andrea Riquelme.
+
+#### 6.	Retroalimentación formulario proyecto.
+Se repasa sobre las propuestas que hayan entregado tras la última actividad, de ella se hacen dos propuestas las cuales son Día de la Flor, y actividades que permitan unión entre la carrera.
+También como un consejo de entregar la información por medio de WhatsApp, Correo Institucional e Instagram.
+
+#####    6.1. Sobre propuesta Día de la Flor.
+Se discute la propuesta en plenaria respecto a temática y una idea inicial de como realizarla, posterior a eso se lleva a votación la aprobación del proyecto y realización para el segundo semestre. Para ello se realiza una votación nominal obteniendo su aprobación con 10 votos, equivalente al 71.4% 
+
+#### 7.	Temas por concretar en próxima sesión.
+Entre los pendientes se destacan:
+    • Hacer una charla sobre la toma de ramos, dando tips, dar prioridades.
+    • Actividad recreativa de junio por plantearse.
+    • Discutir cada cuanto realizar una actividad.
+
+Se calendariza para el martes 10 de junio el próximo consejo.
+
+Quedando ningún otro tema por tratar, se da por terminada la sesión a las 14:50 horas.
+
+
+# ACTA CONSEJO ESTUDIANTIL
 # Sesión Ordinaria 14 de mayo de 2025
 
 **CENTRO DE ESTUDIANTES CIENCIA DE DATOS**
