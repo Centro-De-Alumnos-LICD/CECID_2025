@@ -47,11 +47,11 @@ Se hace un repaso a modo de informar a los representantes generacionales de los 
 #### 5.	División de los proyectos existentes.
 Se hace una revisión a los proyectos en lo que trabaja el centro, pero importante asignar un encargado que mantenga en contacto como avanza el proyecto a la directiva.
 Organizándose de la siguiente manera:
-    - Misiones 2025: Diego Parra y Amelie Ramírez.
-    - Ayudantías: Kamila Salas, Katalina Salas y Diego Olivares.
-    - Gala: Guiliana Tirachini.
-    - Olimpiadas: Daniel Salinas y Andrea Riquelme.
-    - Inclusión: Cristóbal Soto y Andrea Riquelme.
+    •   Misiones 2025: Diego Parra y Amelie Ramírez.
+    •   Ayudantías: Kamila Salas, Katalina Salas y Diego Olivares.
+    •   Gala: Guiliana Tirachini.
+    •   Olimpiadas: Daniel Salinas y Andrea Riquelme.
+    •   Inclusión: Cristóbal Soto y Andrea Riquelme.
 
 #### 6.	Retroalimentación formulario proyecto.
 Se repasa sobre las propuestas que hayan entregado tras la última actividad, de ella se hacen dos propuestas las cuales son Día de la Flor, y actividades que permitan unión entre la carrera.
@@ -62,9 +62,9 @@ Se discute la propuesta en plenaria respecto a temática y una idea inicial de c
 
 #### 7.	Temas por concretar en próxima sesión.
 Entre los pendientes se destacan:
-    -   Hacer una charla sobre la toma de ramos, dando tips, dar prioridades.
-    -   Actividad recreativa de junio por plantearse.
-    -   Discutir cada cuanto realizar una actividad.
+    •   Hacer una charla sobre la toma de ramos, dando tips, dar prioridades.
+    •   Actividad recreativa de junio por plantearse.
+    •   Discutir cada cuanto realizar una actividad.
 
 Se calendariza para el martes 10 de junio el próximo consejo.
 
