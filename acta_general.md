@@ -62,9 +62,9 @@ Se discute la propuesta en plenaria respecto a temática y una idea inicial de c
 
 #### 7.	Temas por concretar en próxima sesión.
 Entre los pendientes se destacan:
-    •   Hacer una charla sobre la toma de ramos, dando tips, dar prioridades.
-    •   Actividad recreativa de junio por plantearse.
-    •   Discutir cada cuanto realizar una actividad.
+* Hacer una charla sobre la toma de ramos, dando tips, dar prioridades.
+* Actividad recreativa de junio por plantearse.
+* Discutir cada cuanto realizar una actividad.
 
 Se calendariza para el martes 10 de junio el próximo consejo.
 
