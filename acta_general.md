@@ -6,20 +6,20 @@
 Siendo las 13:55 horas del día 28 de mayo de 2025, en la Sala 3 del piso 2 del Edificio San Agustín, se inicia la sesión ordinaria.
 
 ## ASISTENTES
-•	Amelie Ramírez, Presidencia.
-•	Diego Parra, Vicepresidencia Interna.
-•	Kamila Salas, Vicepresidencia Externa.
-•	Daniel Salinas, Secretaría.
-•	Catalina Díaz, Subsecretaría.
-•	Diego Olivares, Hacienda.
-•	Guiliana Tirachini, Vocera de Género.
-•	Cristóbal Soto, Consejero Académico.
-•	Andrea Riquelme, Subconsejera Académica.
-•	Víctor Marques, Gen23
-•	Antonella Ainzúa, Gen24
-•	Luis Romero, Gen24
-•	Ignacio Osorio, Gen25
-•	Sofía Solorza, Gen25
+- Amelie Ramírez, Presidencia.
+- Diego Parra, Vicepresidencia Interna.
+- Kamila Salas, Vicepresidencia Externa.
+- Daniel Salinas, Secretaría.
+- Catalina Díaz, Subsecretaría.
+- Diego Olivares, Hacienda.
+- Guiliana Tirachini, Vocera de Género.
+- Cristóbal Soto, Consejero Académico.
+- Andrea Riquelme, Subconsejera Académica.
+- Víctor Marques, Gen23
+- Antonella Ainzúa, Gen24
+- Luis Romero, Gen24
+- Ignacio Osorio, Gen25
+- Sofía Solorza, Gen25
 
 ### TABLA
 1.	**Bienvenida formal a los delegados.**
