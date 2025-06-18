@@ -44,14 +44,14 @@ En un siguiente punto organizar las próximas ayudantías, posibles fechas y que
 #### 4.	Repaso de deberes asignados a los miembros de la directiva.
 Se hace un repaso a modo de informar a los representantes generacionales de los deberes asignados a cada uno de los miembros de la directiva y que puedan saber a quién acudir según las necesidades que tengan.
 
-#### 5.	División de los proyectos existentes.
-Se hace una revisión a los proyectos en lo que trabaja el centro, pero importante asignar un encargado que mantenga en contacto como avanza el proyecto a la directiva.
+#### 5. División de los proyectos existentes.
+Se hace una revisión a los proyectos en lo que trabaja el centro, pero importante asignar un encargado que mantenga en contacto como avanza el proyecto a la directiva.  
 Organizándose de la siguiente manera:
-    * Misiones 2025: Diego Parra y Amelie Ramírez.
-    * Ayudantías: Kamila Salas, Katalina Salas y Diego Olivares.
-    * Gala: Guiliana Tirachini.
-    * Olimpiadas: Daniel Salinas y Andrea Riquelme.
-    * Inclusión: Cristóbal Soto y Andrea Riquelme.
+* Misiones 2025: Diego Parra y Amelie Ramírez.
+* Ayudantías: Kamila Salas, Katalina Salas y Diego Olivares.
+* Gala: Guiliana Tirachini.
+* Olimpiadas: Daniel Salinas y Andrea Riquelme.
+* Inclusión: Cristóbal Soto y Andrea Riquelme.
 
 #### 6.	Retroalimentación formulario proyecto.
 Se repasa sobre las propuestas que hayan entregado tras la última actividad, de ella se hacen dos propuestas las cuales son Día de la Flor, y actividades que permitan unión entre la carrera.
