@@ -69,7 +69,9 @@ Entre los pendientes se destacan:
 Se calendariza para el martes 10 de junio el próximo consejo.
 
 Quedando ningún otro tema por tratar, se da por terminada la sesión a las 14:50 horas.
-=======
+
+
+# ACTA CONSEJO ESTUDIANTIL
 # Sesión Extraordinaria 17 de mayo de 2025
 
 **CENTRO DE ESTUDIANTES CIENCIA DE DATOS**
@@ -118,7 +120,6 @@ Se realizará un formulario para el final de la ayudantía y recoger feedback y 
 Se programa una sesión ordinaria para el día miércoles 28 de mayo en horario de almuerzo, sala por determinar.
 
 Finalmente termina la sesión a las 22:52 horas.
->>>>>>> 658e9521bd2cde730c7b78e05a75552813e1fee4
 
 
 # ACTA CONSEJO ESTUDIANTIL
