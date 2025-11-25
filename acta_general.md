@@ -1,4 +1,209 @@
 # ACTA CONSEJO ESTUDIANTIL
+# Sesión Ordinaria 23 de octubre de 2025
+
+**CENTRO DE ESTUDIANTES CIENCIA DE DATOS**
+
+Siendo las 13:40 horas del día 23 de octubre de 2025, en la Sala de Reuniones del Piso 6 del Edificio Carreras Interdisciplinarias, se inicia la sesión ordinaria.
+
+## ASISTENTES
+- Amelie Ramírez, Presidencia.
+- Diego Parra, Vicepresidencia Interna.
+- Kamila Salas, Vicepresidencia Externa.
+- Daniel Salinas, Secretaría.
+- Catalina Díaz, Subsecretaría.
+- Diego Olivares, Hacienda.
+- Guiliana Tirachini, Vocera de Género.
+- Cristóbal Soto, Consejero Académico.
+- Andrea Riquelme, Subconsejera Académica.
+- Víctor Marques, Gen23.
+- Luis Romero, Gen24.
+
+### TABLA
+1. **Discusión última actividad recreativa.**
+2. **Cierre de proyectos.**
+3. **Cierre votaciones CEICD 2026.**
+4. **Organización Cuenta Pública y ceremonia de cambio de mando.**
+
+### SESIÓN
+
+Previo al inicio de la tabla, se informa que en las próximas ferias laborales habrá stands dedicados a la Licenciatura, junto con actividades dirigidas a estudiantes de la carrera.
+
+#### 1. Discusión última actividad recreativa.
+Tras conocerse los resultados del CEFMAT, se considera favorable retomar las Olimpiadas el próximo año. Por lo mismo, se descarta la actividad conjunta y se decide cerrar el semestre con dos actividades propias: Día de Cine y Torneo de Videojuegos, por ser las más populares entre estudiantes.
+
+El Día de Cine queda planificado para el **4 de noviembre en horario de almuerzo**, con formularios para estimar asistencia y votar películas (encuestas entre el 23 y el 27 de octubre).
+
+El Torneo de Videojuegos queda fijado para el **5 de noviembre**, entre los módulos 7 y 8, con juegos como MK, Smash Bros, Mario Kart y Among Us. Se entregarán dulces como premio.
+
+#### 2. Cierre de proyectos.
+Se revisan los proyectos aún abiertos. Se solicita realizar los cierres a la brevedad para preparar adecuadamente la Cuenta Pública y la presentación final.
+
+#### 3. Cierre votaciones CEICD 2026.
+TRICEL informa que los resultados ya están listos y serán publicados al día siguiente en redes sociales.
+
+#### 4. Organización Cuenta Pública y ceremonia de cambio de mando.
+Se propone realizar ambas instancias el mismo día, idealmente en el Auditorio de College. Se coordinará fecha con el centro electo, esperando realizarlo durante las dos últimas semanas de noviembre. Se espera la presencia de la unidad académica, consejeros territoriales, centros de estudiantes y estudiantado.
+
+No habiendo más temas por tratar, la sesión se da por finalizada a las 14:25 horas.
+
+
+# ACTA CONSEJO ESTUDIANTIL
+# Sesión Ordinaria 06 de octubre de 2025
+
+**CENTRO DE ESTUDIANTES CIENCIA DE DATOS**
+
+Siendo las 13:40 horas del día 06 de octubre, en la Sala de Reuniones del Piso 6 del Edificio Carreras Interdisciplinarias, se inicia la sesión ordinaria.
+
+## ASISTENTES
+- Amelie Ramírez, Presidencia.
+- Diego Parra, Vicepresidencia Interna.
+- Kamila Salas, Vicepresidencia Externa.
+- Daniel Salinas, Secretaría.
+- Catalina Díaz, Subsecretaría.
+- Diego Olivares, Hacienda.
+- Guiliana Tirachini, Vocera de Género.
+- Cristóbal Soto, Consejero Académico.
+- Luis Romero, Gen24.
+- Antonella Ainzúa, Gen24.
+
+### TABLA
+1. **Votaciones FEUC y CS.**
+2. **Procesos de Postulación CECID 2026.**
+3. **Cambios en estatutos.**
+4. **Actividad Recreativa.**
+5. **Reajustes presupuestarios.**
+6. **Recordatorio Asamblea.**
+
+### SESIÓN
+
+#### 1. Elecciones FEUC y CS.
+Se repasan las votaciones FEUC, Consejería Superior y Consejeros Académicos. Se insiste en reforzar la difusión debido a la baja participación recurrente. Se recuerda que la mesa funcionará de 10:00 a 18:00 horas y que vocales estarán organizados por bloques.
+
+#### 2. Proceso de Postulación CCEE + CA.
+Se revisan requisitos del Artículo 66 y se propone simplificar la postulación mediante un formulario y avisos claros. Se ajustan fechas tentativas para no coincidir con semanas de evaluaciones.
+
+#### 3. Cambios a los estatutos.
+Se discute ajustar artículos para favorecer continuidad del Centro y clarificar procesos electorales. Se propone abrir la discusión al estudiantado antes de formalizar propuestas.
+
+#### 4. Actividad Recreativa.
+Se propone una jornada de cine temática de terror. Se revisan películas, snacks y posible concurso de disfraces. Se verificará disponibilidad de auditorios.
+
+#### 5. Reajuste presupuestario.
+Se informa que la actividad de septiembre usó menos de la mitad del presupuesto, por lo que se plantea redirigir recursos a las actividades finales del semestre.
+
+#### 6. Recordatorio Asamblea.
+Se recuerda que al final del semestre se debe presentar la Cuenta Pública. Cada área debe mantener su material ordenado y actualizado para facilitar el proceso.
+
+No habiendo más temas por tratar, la sesión se da por finalizada a las 14:34 horas.
+
+
+# ACTA CONSEJO ESTUDIANTIL
+# Sesión Ordinaria 19 de agosto de 2025
+
+**CENTRO DE ESTUDIANTES CIENCIA DE DATOS**
+
+Siendo las 13:50 horas del día 19 de agosto de 2025, en la Sala de Estudios de Pedagogías Interfacultades, se inicia la sesión ordinaria.
+
+## ASISTENTES
+- Amelie Ramírez, Presidencia.
+- Diego Parra, Vicepresidencia Interna.
+- Kamila Salas, Vicepresidencia Externa.
+- Daniel Salinas, Secretaría.
+- Catalina Díaz, Subsecretaría.
+- Diego Olivares, Hacienda.
+- Guiliana Tirachini, Vocera de Género.
+- Cristóbal Soto, Consejero Académico.
+- Andrea Riquelme, Subconsejera Académica.
+- Víctor Marques, Gen23.
+- Antonella Ainzúa, Gen24.
+- Ignacio Osorio, Gen25.
+- Sofía Solorza, Gen25.
+
+### TABLA
+1. **Avances Gala.**
+2. **Actividad recreativa del mes.**
+3. **Varios.**
+
+### SESIÓN
+
+Se inicia repasando el último Consejo FEUC, donde se discutió un cambio estatutario transitorio para la próxima elección de Federación, la elección de TRICEL y una carta enviada por la Universidad al MINEDUC y al Ministerio de Transporte.
+
+En temas de seguridad, se comentó la medida provisional del uso obligatorio de TUC en el ingreso, junto con problemas en criterios aplicados por guardias.
+
+#### 1. Avances Gala.
+Se confirma que las pulseras se entregarán el mismo día al subir a los buses y se informa sobre la presencia de OA para apoyo. Se comunica además un cargo adicional debido a que no se alcanzó la meta para cubrir el costo total.
+
+#### 2. Actividad recreativa del mes.
+Se propone realizar una actividad de Fiestas Patrias en conjunto con el IMC: ellos aportan comida y el centro organiza juegos. Se barajan actividades como: carrera 3 pies, yincana, si se la sabe cante, silla musical y competencias matemáticas. Se evaluará en reunión posterior con el IMC.
+
+#### 3. Varios.
+a. Se plantea discutir un futuro cambio de estatutos, con miras a facilitar continuidad del Centro. Se mencionan ajustes en PPA y en quórum mínimo.  
+b. Se discute estudiar qué ramos presentan mayor dificultad para organizar ayudantías más focalizadas.
+
+No habiendo más temas por tratar, la sesión se da por finalizada a las 14:34 horas.
+
+
+# ACTA CONSEJO ESTUDIANTIL
+# Sesión Ordinaria 04 de junio de 2025
+
+**CENTRO DE ESTUDIANTES CIENCIA DE DATOS**
+
+Siendo las 13:48 horas del día 04 de junio de 2025, en la Sala 3 del piso 2 del Edificio San Agustín, se inicia la sesión ordinaria.
+
+## ASISTENTES
+- Amelie Ramírez, Presidencia.
+- Diego Parra, Vicepresidencia Interna.
+- Daniel Salinas, Secretaría.
+- Catalina Díaz, Subsecretaría.
+- Diego Olivares, Hacienda.
+- Guiliana Tirachini, Vocera de Género.
+- Cristóbal Soto, Consejero Académico.
+- Andrea Riquelme, Subconsejera Académica.
+- Víctor Marques, Gen23.
+- Luis Romero, Gen24.
+- Ignacio Osorio, Gen25.
+- Sofía Solorza, Gen25.
+
+### TABLA
+1. **Reunión encuentro entre estudiantes y Rector.**
+2. **Confirmación asistencia a Coffee Break y Almuerzo.**
+3. **Avances Alianzas.**
+4. **Calendarización Ayudantías.**
+5. **Avances Gala.**
+6. **Avances Juegos Interfacultades.**
+7. **Actividad recreativa del mes.**
+8. **Actividad Mes del Orgullo.**
+
+### SESIÓN
+
+#### 1. Reunión encuentro entre estudiantes y Rector.
+Se comparte un resumen de la primera reunión con el Rector, donde se discutió principalmente el proyecto FES, al cual la Universidad manifestó oposición. Se proyectan futuras charlas para debatir el tema.
+
+#### 2. Confirmación asistencia a Coffee Break y Almuerzo.
+Se confirma que Diego Olivares asistirá al coffee break, mientras que Presidencia, Vicepresidencias y Subsecretaría asistirán al almuerzo.
+
+#### 3. Avances Alianzas.
+Se informa sobre la organización con novatos para incentivar participación. Se discute abrir el proyecto a más generaciones dado el bajo número actual. El formulario quedará abierto.
+
+#### 4. Calendarización Ayudantías.
+Se propone realizar la primera ayudantía para Intro Álgebra, idealmente el jueves siguiente en horario de almuerzo. Sala por confirmar.
+
+#### 5. Avances Gala.
+Se informa que ya está disponible el formulario para inscripción. Se comenta la posibilidad, vista en otras carreras, de pago en cuotas, aunque es difícil de implementar por tiempo. Se propone crear un video promocional. Se habilita una cuenta bancaria autorizada por IMC para manejar pagos.
+
+#### 6. Avances Juegos Interfacultades.
+Se confirma participación al menos en un deporte, y se coordinará selección conjunta con CEFMAT. Habrá hidratación y se considera un sorteo de un llavero para incentivar asistencia.
+
+#### 7. Actividad recreativa del mes.
+Se propone actividad tipo juegos de mesa con snacks y café. Se evalúa realizarla el lunes 24 de junio, módulos 5–7, sala por confirmar.
+
+#### 8. Actividad Mes del Orgullo.
+Andrea Riquelme queda a cargo de proponer actividades de bajo costo. Se mencionan opciones como Pintatón o Día de Cine. Las propuestas se revisarán en sesión extraordinaria la próxima semana.
+
+No habiendo más temas por tratar, se finaliza la sesión a las 14:41 horas.
+
+
+# ACTA CONSEJO ESTUDIANTIL
 # Sesión Ordinaria 28 de mayo de 2025
 
 **CENTRO DE ESTUDIANTES CIENCIA DE DATOS**
